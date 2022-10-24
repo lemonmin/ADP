@@ -1,0 +1,4 @@
+- 표준 오차(standard error) : 어떤 추정량의 표준편차 (=추정량의 정밀도), 표준편차를 루트 n으로 나눈 것.
+
+- 표본 비율(sample proportion) : 모비율 p의 추정량, X/n (X = 지정된 특성을 갖는 관측들의 개수)
+- 표본비율의 표준오차 = np.sqrt(phat * (1-phat) / n)  (phat = p의 불편추정량)
